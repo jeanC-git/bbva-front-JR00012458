@@ -1,0 +1,24 @@
+{
+  "name": "form-app",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@mdi/font": "7.0.96",
+    "@types/socket.io-client": "^3.0.0",
+    "axios": "^1.2.2",
+    "roboto-fontface": "*",
+    "socket.io-client": "^4.5.4",
+    "vue": "^3.2.38",
+    "vuetify": "^3.0.0",
+    "webfontloader": "^1.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.3",
+    "vite": "^3.1.9",
+    "vite-plugin-vuetify": "^1.0.0-alpha.12"
+  }
+}
