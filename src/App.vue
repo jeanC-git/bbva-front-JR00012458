@@ -5,7 +5,7 @@ import Form from './components/Form.vue'
 <template>
   <v-app id="inspire">
     <v-app-bar class="px-3" color="white" flat density="compact">
-      <v-avatar color="grey-darken-1" size="32"></v-avatar>
+
 
       <v-spacer></v-spacer>
 
@@ -16,11 +16,6 @@ import Form from './components/Form.vue'
       </v-tabs>
       <v-spacer></v-spacer>
 
-      <v-avatar
-        class="hidden-sm-and-down"
-        color="grey-darken-1"
-        size="32"
-      ></v-avatar>
     </v-app-bar>
 
     <v-main class="bg-grey-lighten-3">
